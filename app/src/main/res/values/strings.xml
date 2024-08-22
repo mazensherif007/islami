@@ -7,4 +7,16 @@
     <string name="tasbeh">Tasbeh</string>
     <string name="radio">Radio</string>
     <string name="nuumber_of_tasbeh">عدد التسبيحات</string>
+    <string name="notification_time">\n</string>
+    <string name="notification_content" />
+    <string name="notification_title" />
+    <string name="notification_icon_desc" />
+    <string name="app_icon">app_icon</string>
+    <string name="channel_name" />
+    <string name="channel_description" />
+    <string name="qura">إذاعة القرآن الكريم</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo5">TODO</string>
 </resources>
