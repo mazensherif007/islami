@@ -155,4 +155,10 @@ class RadioService : Service() {
         stopForeground(STOP_FOREGROUND_REMOVE)
         stopSelf()
     }
+
+    var onPlayClick: OnPlayClick? = null
+}
+
+fun interface OnPlayClick {
+    fun onClick(isPlayed: Boolean)
 }
